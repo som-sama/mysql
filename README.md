@@ -1,0 +1,2 @@
+# mysql
+all sql queries 
