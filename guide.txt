@@ -1,0 +1,11 @@
+
+//connecting to mySQL
+mysql -u root -p
+
+
+//to generate a sql script
+mysqldump -u [username] -p -d TestDB > TestDB.sql
+
+//quitting mySQL
+exit;
+
